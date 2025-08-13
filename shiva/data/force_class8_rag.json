@@ -1,0 +1,105 @@
+{
+  "topic": "Class 8 Science \u2014 Force",
+  "summary": "Force is a push or pull that can change the state of motion or shape of an object. Acceleration produced by a net force is proportional to the force and inversely proportional to mass. Pressure is force per unit area.",
+  "concepts": [
+    {
+      "name": "Force",
+      "definition": "A push or pull on an object that can change its motion or shape.",
+      "formula": "F = m \u00d7 a",
+      "note": "Unit: Newton (N)"
+    },
+    {
+      "name": "Contact vs Non-contact Forces",
+      "definition": "Contact forces act by touching (friction, muscular); non-contact act at a distance (gravitational, magnetic, electrostatic)."
+    },
+    {
+      "name": "Balanced & Unbalanced Forces",
+      "definition": "Balanced forces cancel out and cause no change in motion; unbalanced forces result in acceleration."
+    },
+    {
+      "name": "Pressure",
+      "definition": "Force acting per unit area.",
+      "formula": "P = F / A",
+      "note": "Unit: Pascal (Pa)"
+    },
+    {
+      "name": "Pressure in Fluids",
+      "definition": "Fluids exert pressure in all directions; pressure increases with depth."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Why does a nail pierce wood more easily than a finger?",
+      "a": "Same force on a much smaller area gives higher pressure, so the nail pierces the wood."
+    },
+    {
+      "q": "How are force and acceleration related?",
+      "a": "Directly proportional for a fixed mass: doubling force doubles acceleration (F = m \u00d7 a)."
+    },
+    {
+      "q": "What is the SI unit of pressure?",
+      "a": "Pascal (Pa)."
+    },
+    {
+      "q": "What is the SI unit of force?",
+      "a": "Newton (N)."
+    }
+  ],
+  "questions": [
+    {
+      "q": "Formula for force is:",
+      "options": [
+        "F = m \u00d7 a",
+        "P = F / A",
+        "W = F \u00d7 s",
+        "V = I \u00d7 R"
+      ],
+      "answer": "F = m \u00d7 a",
+      "concept": "force"
+    },
+    {
+      "q": "If the same force acts on a smaller area, pressure will:",
+      "options": [
+        "Increase",
+        "Decrease",
+        "Stay same",
+        "Become zero"
+      ],
+      "answer": "Increase",
+      "concept": "pressure"
+    },
+    {
+      "q": "Unit of force:",
+      "options": [
+        "Pascal",
+        "Newton",
+        "Joule",
+        "Watt"
+      ],
+      "answer": "Newton",
+      "concept": "force"
+    },
+    {
+      "q": "Pressure formula is:",
+      "options": [
+        "P = F / A",
+        "F = m \u00d7 a",
+        "E = m c^2",
+        "V = I \u00d7 R"
+      ],
+      "answer": "P = F / A",
+      "concept": "pressure"
+    },
+    {
+      "q": "Balanced forces cause:",
+      "options": [
+        "Acceleration",
+        "No change in motion",
+        "Increase in speed",
+        "Rotation only"
+      ],
+      "answer": "No change in motion",
+      "concept": "force"
+    }
+  ]
+}
